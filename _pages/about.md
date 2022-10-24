@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a master student at Nankai University. I obtained my bachelor’s degree from School of Computer Science and Technology, China University of Mining and Technology, June, 2020. My research interests include Computer Architecture, Software/Hardware co-optimization for Machine Learning.
+I’m currently a master student at Nankai University. I obtained my bachelor’s degree from School of Computer Science and Technology, China University of Mining and Technology, June, 2020. 
+My research interests include Computer Architecture, Software/Hardware co-optimization for Machine Learning.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2020.09 - 2022.11 (now)*: M.S. in Computer Technology, School of Computer Science and Cyber Science, Nankai University. Advisor: Prof.[Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). 
@@ -41,15 +42,16 @@ My research interest includes neural machine translation and computer vision. I 
 ✍🏻 **Xianduo Li**, Xiaoli Gong, Dong Wang, Jin Zhang, et al.
 
 🎉 **Contribution** 
-- 1.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- 2.*******
-- 3.*****
+- 1. Propose a framework that employs offline pruning and quantization and online SIMD optimization to fit DNN for cost-effective edge devices.
+- 2. Design and implement accumulation-before-multiplication sparse convolutional algorithm.
+- 3. Conduct a series of experiments to evaluate the performance of our framework on various edge devices.
 
 </div>
 </div>
 
 # 👨‍💻 Work Experience
-- **Shuhai Lab at Huawei Cloud, Research Intern.** Research Topic: Design a benchmark suite for latency-critical cloud applications (such as Memcached, Redis, et al) with a wide variety of latency requirements and micro-architectural characteristics.
+- **Shuhai Lab at Huawei Cloud, Research Intern.** 
+Research Topic: Design a benchmark suite for latency-critical cloud applications (such as Memcached, Redis, et al) with a wide variety of latency requirements and micro-architectural characteristics.
 
 # 💻 Research Experience
 ### Software/Hardware Co-optimization for Machine Learning
@@ -58,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **NLP-DSP**, design an efficient training framework to implement NLP models (such as Bert, GPT2, et al.) on a custom multi-core DSP processor (GPU-like). (Labels: DSP Accelerators, Custom DSP Scalar and Vector Instructions, GPU-like Kernel Design, NLP Training)
 
 ### Linux Kernel
-- Source code analysis of Ttransparent Huge Page (THP) machnism and linux memory management.
+- Source code analysis of Transparent Huge Page (THP) mechanism and linux memory management.
 - Ucore OS, a micro-os for teaching.
 
 ### Areas of interest but not researched in depth
@@ -70,8 +72,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2017-2018,2018-2019* Two times first-class scholarships of China University of Mining and Technology. 
-- *2020-2021, 2021-2022* Tow times GongNeng scholarships of Nankai University. 
 - *2020.06* Outstanding Student of China University of Mining and Technology.
+- *2020-2021* New Student Scholarship of Nankai University. 
+- *2022-2023* The first-class GongNeng Scholarship of Nankai University
 
 
 # 💬 Services
