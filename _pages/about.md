@@ -53,7 +53,6 @@ IEEE Transactions on Network Science and Engineering, 2022
 
 # 👨‍💻 Work Experience
 - **Shuhai Lab at Huawei Cloud, Research Intern.** 
-
 Research Topic: Design a benchmark suite for latency-critical cloud applications (such as Memcached, Redis, et al) with a wide variety of latency requirements and micro-architectural characteristics.
 
 # 💻 Research Experience
