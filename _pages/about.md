@@ -39,6 +39,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 [《ABM-SpConv-SIMD: Accelerating Convolutional Neural Network Inference for Industrial IoT Applications on Edge Devices》](https://ieeexplore.ieee.org/document/9721546)
 
+IEEE Transactions on Network Science and Engineering, 2022
+
 ✍🏻 **Xianduo Li**, Xiaoli Gong, Dong Wang, Jin Zhang, et al.
 
 🎉 **Contribution** 
@@ -51,6 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 👨‍💻 Work Experience
 - **Shuhai Lab at Huawei Cloud, Research Intern.** 
+
 Research Topic: Design a benchmark suite for latency-critical cloud applications (such as Memcached, Redis, et al) with a wide variety of latency requirements and micro-architectural characteristics.
 
 # 💻 Research Experience
