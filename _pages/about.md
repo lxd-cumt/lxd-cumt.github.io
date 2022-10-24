@@ -44,9 +44,9 @@ IEEE Transactions on Network Science and Engineering, 2022
 ✍🏻 **Xianduo Li**, Xiaoli Gong, Dong Wang, Jin Zhang, et al.
 
 🎉 **Contribution** 
-- 1. Propose a framework that employs offline pruning and quantization and online SIMD optimization to fit DNN for cost-effective edge devices.
-- 2. Design and implement accumulation-before-multiplication sparse convolutional algorithm.
-- 3. Conduct a series of experiments to evaluate the performance of our framework on various edge devices.
+- Propose a framework that employs offline pruning and quantization and online SIMD optimization to fit DNN for cost-effective edge devices.
+- Design and implement accumulation-before-multiplication sparse convolutional algorithm.
+- Conduct a series of experiments to evaluate the performance of our framework on various edge devices.
 
 </div>
 </div>
