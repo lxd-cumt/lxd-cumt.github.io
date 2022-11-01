@@ -67,19 +67,22 @@ Research Topic: Design a benchmark suite for latency-critical cloud applications
 ### Linux Kernel
 - Source code analysis of Transparent Huge Page (THP) mechanism and linux memory management.
 - Ucore OS, a micro-os for teaching.
-
+<!-- 
 ### Areas of interest but not researched in depth
 
 - Hashing-based DNN Training; Deep Learning Compiler; (Machine Learning)
 - QoS-aware Scheduling in Cloud; Interference-aware Scheduling in Cloud; (Cloud Computing)
 - Zero-Knowledge Proofs; (Security)
-- P4 Language, In-network Computing, Distributed Training, Profiler, Network Telemetry(Network)
+- P4 Language, In-network Computing, Distributed Training, Profiler, Network Telemetry(Network) -->
 
 # 🎖 Honors and Awards
-- *2017-2018,2018-2019* Two times first-class scholarships of China University of Mining and Technology. 
-- *2020.06* Outstanding Student of China University of Mining and Technology.
-- *2020-2021* New Student Scholarship of Nankai University. 
 - *2022-2023* The first-class GongNeng Scholarship of Nankai University
+- *2020-2021* New Student Scholarship of Nankai University
+- *2020.06* Outstanding Student of China University of Mining and Technology
+- *2017-2018,2018-2019* Two times first-class scholarships of China University of Mining and Technology
+
+
+
 
 
 # 💬 Services
