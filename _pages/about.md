@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
  -->
 
 # 🔥 News
-- *2022.12*: &nbsp;🎉🎉 I will join Baidu PaddlePaddle as a HPC engineering!
+- *2022.12*: &nbsp;🎉🎉 I will join Baidu PaddlePaddle as a HPC engineer!
 - *2022.10*: &nbsp;🎉🎉 Won the first-class (Top 10%) scholarship of Nankai University 🎉🎉
 - *2022.04*: &nbsp;🎉🎉 Join Shuhai Lab Huawei Cloud as Research Intern for three months 🎉🎉
 - *2022.02*: &nbsp;🎉🎉 Out work **ABM-SpConv-SIMD** was accepted by **IEEE Transactions on Network Science and Engineering** 🎉🎉
