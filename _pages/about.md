@@ -70,14 +70,12 @@ Research Topic: Design a benchmark suite for latency-critical cloud applications
 - Ucore OS, a micro-os for teaching.
 
 
-<!-- 
 ### Areas of interest but not researched in depth
 
 - Hashing-based DNN Training; Deep Learning Compiler; (Machine Learning)
 - QoS-aware Scheduling in Cloud; Interference-aware Scheduling in Cloud; (Cloud Computing)
 - Zero-Knowledge Proofs; (Security)
 - P4 Language, In-network Computing, Distributed Training, Profiler, Network Telemetry(Network)
- -->
 
 
 # 🎖 Honors and Awards
