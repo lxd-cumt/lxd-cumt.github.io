@@ -75,7 +75,7 @@ Research Topic: Design a benchmark suite for latency-critical cloud applications
 - Hashing-based DNN Training; Deep Learning Compiler; (Machine Learning)
 - QoS-aware Scheduling in Cloud; Interference-aware Scheduling in Cloud; (Cloud Computing)
 - Zero-Knowledge Proofs; (Security)
-- P4 Language, In-network Computing, Distributed Training, Profiler, Network Telemetry; (Network)
+- P4 Language; In-network Computing; Distributed Training; Profiler; Network Telemetry; (Network)
 
 
 # 🎖 Honors and Awards
