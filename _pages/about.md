@@ -69,8 +69,8 @@ IEEE Transactions on Network Science and Engineering, 2022
 - Design and implement accumulation-before-multiplication sparse convolutional algorithm.
 - Conduct a series of experiments to evaluate the performance of our framework on various edge devices.
 
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 # 👨‍💻 Work Experience
 - **Shuhai Lab at Huawei Cloud, Research Intern.** 
