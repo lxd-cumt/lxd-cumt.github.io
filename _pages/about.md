@@ -25,7 +25,8 @@ My research interest includes neural machine translation and computer vision. I 
  -->
 
 # 🔥 News
-- *2022.12*: &nbsp;🎉🎉 I will join Baidu PaddlePaddle as a HPC engineer!
+- *2024.04*: &nbsp;🎉🎉 Our work **Hybrid-Memcached** was accepted by **IEEE Transactions on Computers** 🎉🎉 
+- *2023.07*: &nbsp;🎉🎉 I will join Baidu PaddlePaddle as a HPC engineer!
 - *2022.10*: &nbsp;🎉🎉 Won the first-class (Top 10%) scholarship of Nankai University 🎉🎉
 - *2022.04*: &nbsp;🎉🎉 Join Shuhai Lab Huawei Cloud as Research Intern for three months 🎉🎉
 - *2022.02*: &nbsp;🎉🎉 Out work **ABM-SpConv-SIMD** was accepted by **IEEE Transactions on Network Science and Engineering** 🎉🎉
@@ -33,10 +34,22 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.09 - 2022.11 (now)*: M.S. in Computer Technology, School of Computer Science and Cyber Science, Nankai University. Advisor: Prof.[Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). 
+- *2020.09 - 2023.06*: M.S. in Computer Technology, School of Computer Science and Cyber Science, Nankai University. Advisor: Prof.[Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). 
 - *2016.09 - 2020.06*: B.E. in Electronic Information Science and Engineering, School of Computer Science and Technology, China University of Mining and Technology.
 
 # 📝 Publications 
+
+[《Hybrid-Memcached: A Novel Approach for Memcached Persistence Optimization with Hybrid Memory》](https://ieeexplore.ieee.org/abstract/document/10492614)
+
+IEEE Transactions on Computers, 2024
+
+✍🏻 **Zhang Jiang**, **Xianduo Li**, Xiaoli Gong, et al.
+
+🎉 **Contribution** 
+- DRAM-based data aggregation to avoid fine-grained writes
+- data-object alignment mechanism to avoid write amplification
+- non-temporal store instruction-based writing to improv
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ABM-SpConv-SIMD</div><img src='images/paper1.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
