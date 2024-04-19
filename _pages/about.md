@@ -39,9 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.09 - 2020.06*: B.E. in Electronic Information Science and Engineering, School of Computer Science and Technology, China University of Mining and Technology.
 
 # 📝 Publications 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Hybrid-Memcached</div><img src='images/paper3.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 [《Hybrid-Memcached: A Novel Approach for Memcached Persistence Optimization with Hybrid Memory》](https://ieeexplore.ieee.org/abstract/document/10492614)
 
@@ -55,8 +55,8 @@ IEEE Transactions on Computers, 2024
 - non-temporal store instruction-based writing to improv
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ABM-SpConv-SIMD</div><img src='images/paper1.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ABM-SpConv-SIMD</div><img src='images/paper1.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [《ABM-SpConv-SIMD: Accelerating Convolutional Neural Network Inference for Industrial IoT Applications on Edge Devices》](https://ieeexplore.ieee.org/document/9721546)
 
