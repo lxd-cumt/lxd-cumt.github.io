@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 IEEE Transactions on Computers, 2024
 
-✍🏻 **Zhang Jiang**, **Xianduo Li**, Xiaoli Gong, et al.
+✍🏻 **Zhang Jiang**, **Xianduo Li** **(joint first author)**, Xiaoli Gong, et al.
 
 🎉 **Contribution** 
 - DRAM-based data aggregation to avoid fine-grained writes
