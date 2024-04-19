@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a master student at Nankai University. I obtained my bachelor’s degree from School of Computer Science and Technology, China University of Mining and Technology (CUMT), June, 2020. 
+I’m currently a hpc engineer at PaddlePaddle, Baidu, Beijing. 
+I obtained my master’s degree from School of Computer Science, Nankai University, in 2023.
 My research interests include computer architecture, software/hardware co-optimization for machine learning.
 
 <!--
