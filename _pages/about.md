@@ -40,6 +40,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Hybrid-Memcached</div><img src='images/paper3.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [《Hybrid-Memcached: A Novel Approach for Memcached Persistence Optimization with Hybrid Memory》](https://ieeexplore.ieee.org/abstract/document/10492614)
 
 IEEE Transactions on Computers, 2024
