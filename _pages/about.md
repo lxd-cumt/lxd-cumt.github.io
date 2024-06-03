@@ -52,7 +52,7 @@ IEEE Transactions on Computers, 2024
 🎉 **Contribution** 
 - DRAM-based data aggregation to avoid fine-grained writes
 - data-object alignment mechanism to avoid write amplification
-- non-temporal store instruction-based writing to improve the bandwidth utilization
+- non-temporal store instruction based writing to improve the bandwidth utilization
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ABM-SpConv-SIMD</div><img src='images/paper1.jpeg' alt="sym" width="100%"></div></div>
