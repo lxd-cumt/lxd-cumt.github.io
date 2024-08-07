@@ -8,12 +8,12 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+    
+  - title: "Work Experience"
+  url: "/#-work-experience"
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Work Experience"
-    url: "/#-work-experience"
 
   - title: "Research Experience"
     url: "/#-research-experience"
