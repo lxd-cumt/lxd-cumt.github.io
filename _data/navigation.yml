@@ -1,27 +1,22 @@
-# main links links
+# main links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
   - title: "News"
     url: "/#-news"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#-educations"
-    
-  - title: "Work Experience"
-  url: "/#-work-experience"
+
+  - title: "Experience"
+    url: "/#-work-experience"
+
+  - title: "Projects"
+    url: "/#-selected-projects"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Research Experience"
-    url: "/#-research-experience"
-
-  - title: "Honors and Awards"
+  - title: "Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Services"
-    url: "/#-services" 
-
-

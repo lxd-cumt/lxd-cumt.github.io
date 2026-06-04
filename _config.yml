@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xianduo Li"
-description              : "Seize the day ~ "
-repository               : "Lxd/acad-homepage.github.io"
+description              : "AI Infra & Distributed Training Engineer"
+repository               : "lxd-cumt/lxd-cumt.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,12 +21,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xianduo Li 李先铎"
+  name             : "Xianduo Li (李先铎)"
   avatar           : "images/lixianduo.JPG"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
-  employer         :
-  pubmed           : 
+  bio              : "Distributed Training Engineer @ BAAI"
+  location         : "Beijing, China"
+  employer         : "Beijing Academy of Artificial Intelligence (BAAI)"
+  pubmed           :
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "lixianduo@mail.nankai.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
